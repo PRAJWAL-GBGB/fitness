@@ -17,3 +17,4 @@ console.log(getUser('1'));
 
 updateUser('1', { name: 'Alice', age: 30, weight: 60, height: 160 });
 console.log(getUser('1'));  
+console.log(getUser('2'));  
